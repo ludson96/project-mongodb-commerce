@@ -265,9 +265,7 @@ Dentro da pasta `challenges` estão numerados comandos do mongodb, e logo abaixo
 
 </details>
 
----
-
-> `produtos.bson` fornecidos pela Trybe.
+^[1] `produtos.bson` fornecidos pela Trybe.
 
 [Mongo-url]:https://www.mongodb.com/
 [Mongo-logo]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
