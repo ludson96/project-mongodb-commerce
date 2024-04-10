@@ -1,4 +1,4 @@
-# Repositório do projeto Mongodb Commerce
+# Repositório do projeto Mongodb Commerce 💼
 
 ## Módulo: BACK-END
 
